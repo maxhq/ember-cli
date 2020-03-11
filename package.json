@@ -67,6 +67,7 @@
     "configstore": "^5.0.1",
     "console-ui": "^3.1.1",
     "core-object": "^3.1.5",
+    "core-js": "^3.6.4",
     "dag-map": "^2.0.2",
     "diff": "^4.0.1",
     "ember-cli-is-package-missing": "^1.0.0",
